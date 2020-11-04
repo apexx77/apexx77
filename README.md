@@ -7,7 +7,7 @@
 
 <div align="center" style="padding-top:10px;">
 <a href="https://www.instagram.com/asif_ahmad_s/">
-<img src="https://github.com/apexx77/apexx77/blob/master/instagram.png" alt="Instagram" width=40px style="padding-right:250px;">
+<img src="https://github.com/apexx77/apexx77/blob/master/instagram.png" alt="Instagram" width=40px style="padding-right:25px;">
 </a>
 <a href="https://www.facebook.com/asifahmad.shaik.90">
 <img src="https://github.com/apexx77/apexx77/blob/master/facebook.png" alt="Facebook" width=40px style="padding-right:25px;">
